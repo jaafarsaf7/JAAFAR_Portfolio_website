@@ -22,8 +22,8 @@ const getCv = () =>{
   terminal.insertAdjacentHTML("beforeend", 
         `<p class="result cvresult">${data.cv}</p>`);
   const a = document.createElement("a");
-  a.href = "ressources/CV -  Guillaume REYGNER.pdf";
-  a.setAttribute("download", "CV -  Guillaume REYGNER.pdf");
+  a.href = "ressources/jaafarsafar_Resume_final.pdf";
+  a.setAttribute("download", "jaafarsafar_Resume_final.pdf");
   a.setAttribute("target", "blank");
   a.click();
 }
@@ -76,7 +76,7 @@ const website = (result) =>{
   const a = document.createElement("a");
 
   if(result === "my-projects[1].website"){
-    a.href = "https://guillaumereygner.fr/";
+    a.href = "https://jaafarportfolio.com/";
   } else if (result === "my-projects[2].website"){
     a.href = "https://github.com/jaafarsaf7/Embedded-Deep-Learning-on-RaspberryPi4";
   } else if (result === "my-projects[4].website"){

@@ -79,7 +79,7 @@ var data = {
     <td class="center">HTML, CSS, JS</td>
     <td>Conceptualized and designed a unique, terminal-style personal portfolio website. Engineered an interactive command-line interface format to showcase projects and skills. Utilized HTML, CSS, and JavaScript to create a dynamic user experience.</td>
     <td class="center">No</td>
-    <td class="center"><a href="https://guillaumereygner.fr" target="blank">Link</a></td>
+    <td class="center"><a href="https://jaafarportfolio.com" target="blank">Link</a></td>
 </tr>
   <tr>
     <td class="center">2</td>
